@@ -61,6 +61,7 @@ Minha jornada na tecnologia é movida pela curiosidade, criatividade e vontade d
 <div align="center">
 
 <img src="https://raw.githubusercontent.com/nilmariorodrigues56-byte/nilmariorodrigues56-byte/output/snake.svg" alt="Snake animation" />
+
 </div>
 
 ---
